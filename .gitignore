@@ -1,0 +1,31 @@
+# Environment Files
+.env
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE Specific Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and Databases
+*.log
+*.sqlite3
+
+# Machine Learning Model Checkpoints
+*.pth
+*.pt
+*.model
+*.weights
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Data
+*.csv
+reviews_document.txt
