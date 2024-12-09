@@ -155,7 +155,7 @@ Contributions are welcome! Please fork the repository, create a branch, and subm
 For any questions or feedback, feel free to reach out:
 
 **Talha Sarlık**  
-[GitHub](https://github.com/talhasarlik) | [LinkedIn](https://linkedin.com/talha-sarlik) | [Email](mailto:talhasarlik@gmail.com)
+[GitHub](https://github.com/talhasarlik) | [LinkedIn](https://linkedin.com/in/talha-sarlik/) | [Email](mailto:talhasarlik@gmail.com)
 
 ---
 
